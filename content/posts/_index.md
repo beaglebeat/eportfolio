@@ -1,5 +1,5 @@
 ---
 title: Posts
-summary: Tell visitors about your posts by customizing this text.
-description: Explore some of my recent posts.
+summary: What's going on
+description: See what I've been up to.
 ---
