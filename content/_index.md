@@ -1,6 +1,6 @@
 ---
-title: My name is Tyler.
-subtitle: This website is a work in progress.
+title: My name is Tyler
+subtitle: I'm an electrical and computer engineering student.
 seo_title: Tyler Lash | Electrical and Computer Engineer
 
 primary_cta_page: "about"

@@ -41,10 +41,10 @@
     weight = 4
 
 [[main]]
-    identifier = "subsection"
-    name = "Subsection"
-    url = "/subsection/"
-    # url = "/posts/subsection/" # Remove url param from subsection/_index.md frontmatter to use full permalink
+    identifier = "updates"
+    name = "Updates"
+    url = "/updates/"
+    # url = "/posts/updates/" # Remove url param from updates/_index.md frontmatter to use full permalink
     parent = "writing"
     weight = 5
 
