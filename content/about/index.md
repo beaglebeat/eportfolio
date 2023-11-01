@@ -10,7 +10,7 @@ I'm an electrical and computer engineering student at MassBay Community College 
 
 I previously studied music at Berklee College of Music in Boston, MA. I spent a decade working as a musician, audio engineer, and occasional freelance software developer. I've always had a strong connection to computers and technology, but in the past few years, I discovered a passion for building hardware in particular. I created this website to share my projects.
 
-Other than music computers, I'm also an avid gardener and lover of all dogs.
+I'm also an avid gardener and lover of all dogs.
 
 ## My Experience
 
