@@ -1,5 +1,5 @@
 ### General
-baseURL = 'https://beaglebeat.github.io/eportfolio' # Enter your full production URL
+baseURL = 'https://tylerlash.me' # Enter your full production URL
 languageCode = 'en-us' # Default
 timeZone = 'America/New_York' # IANA timezone https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 title = 'Tyler Lash' # Site title used throughout site
