@@ -1,7 +1,7 @@
 ### SEO, Analytics & 3rd-party
 netlify_forms = true # add data-netlify attribute to contact and newsletter forms, false to disable Netlify forms
 # gtm_id = '' # GTM tracking (leave blank to use GA)
-disallow_search_engines = false # Disallow search engine crawling in robots.txt
+disallow_search_engines = true # Disallow search engine crawling in robots.txt
 
 ### Content
 favicon = true # Enable favicon, add your favicon files to /static/ directory
@@ -10,14 +10,14 @@ grayscale_avatar = false # Add a grayscale filter to the avatar image
 author = 'Tyler Lash' # Default author for <head> meta
 description = "Personal blog and portfolio site of Tyler Lash." # Add a global meta description to <head>
 footer_text = "Built with [Hugo Liftoff](https://github.com/wjh18/hugo-liftoff) theme." # Customize footer text
-fallback_text = "No content available yet. Coming soon." # Fallback text for empty content
+fallback_text = "I don't have any content here yet. Check back soon." # Fallback text for empty content
 label_drafts = true # Add a label indicator next to the title of any built drafts (dev only)
 
 # Customize newsletter text
-newsletter_header = "This is my custom newsletter header with a captivating title."
-newsletter_description = "This is my custom newsletter description that tells you why you should sign up."
-newsletter_submit = "Join now"
-global_newsletter = true # Enable newsletter site-wide
+newsletter_header = "Want to keep up with my projects?"
+newsletter_description = "I won't email you too often."
+newsletter_submit = "Submit"
+global_newsletter = false # Enable newsletter site-wide
 
 # CSS / JavaScript
 enable_postcss = false # Enable if you're using npm and want to utilize PostCSS processing
@@ -30,11 +30,11 @@ images = ['images/default.png'] # Fallback for Open Graph and Twitter Cards imag
 ogLocale = "en_US" # Open graph locale
 
 # Twitter Cards
-twitterSite = "johndoestwitter" # Enter your twitter handle without the @
-twitterCreator = "johndoestwitter" # Enter your twitter handle without the @
+twitterSite = "notarealtwitteracount" # Enter your twitter handle without the @
+twitterCreator = "notarealtwitteraccount" # Enter your twitter handle without the @
 
 # JSON-LD structured data schemas
-schemaName = "John Doe" # Enter your name
+schemaName = "Tyler Lash" # Enter your name
 schemaLocale = "en-US" # Structured data locale
 schemaImage = "images/default.png" # Image for Person structured data schema. Enter path to the image.
 schemaImageWidth = 453 # Width of the above image
@@ -52,14 +52,14 @@ about_page_socials = true
   github = "beaglebeat"
   # stack_overflow = "userid/username" # include user id
   email = "tfortlash@gmail.com"
-  # linkedin = "username" # Comment out to disable
+  linkedin = "tylerlashengineer" # Comment out to disable
   # mastodon_server = "example.social" # include subdomains if relevant, scheme not needed (defaults to https)
   # mastodon_user = "username" # don't include preceding @
 
 # Enable or disable individual social share icons in posts
 [social.share]
   facebook = false
-  linkedin = false
+  linkedin = true
   twitter = false
   reddit = false
   email = true
