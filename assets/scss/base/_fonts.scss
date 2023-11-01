@@ -2,6 +2,7 @@
 // This file contains all @font-face declarations, if any.
 // -----------------------------------------------------------------------------
 
+
 @font-face {
   font-family: 'Roboto';
   src: local('Roboto Thin'),
@@ -111,18 +112,37 @@
 }
 
 @font-face {
-  font-family: 'OstrichSans';
-  src: local('Ostrich Sans Light'),
-    url('/fonts/OstrichSans/OstrichSans-Light.otf') format('opentype');
+  font-family: 'Antonio';
+  src: local('Antonio Light'),
+    url('/fonts/Antonio/Antonio-Light.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
   font-display: swap;
 }
 
+
 @font-face {
-  font-family: 'OstrichSans';
-  src: local('Ostrich Sans'),
-    url('/fonts/OstrichSans/ostrich-regular.ttf') format('truetype');
+  font-family: 'Antonio';
+  src: local('Antonio Regular'),
+    url('/fonts/Antonio/Antonio-Regular.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Antonio';
+  src: local('Antonio Bold'),
+    url('/fonts/Antonio/Antonio-Bold.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: local('Source Sans Pro Regular'),
+    url('/fonts/SourceSansPro/SourceSansPro-Regular.otf') format('opentype');
   font-weight: 200;
   font-style: normal;
   font-display: swap;

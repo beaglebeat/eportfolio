@@ -1,5 +1,25 @@
 /* Add custom CSS */
 
+/* Separate overrides for light and dark */
+:root {
+    --color-primary: #ff3300;
+}
+[data-theme="dark"] {
+    --color-primary: #0099ff;
+}
+
+/* button overrides */
+/*.hero-info .btn-primary {
+    background-color: #ffffff;
+    border-color: #000000;
+}
+
+.hero-info .btn-secondary {
+    color: green;
+    border-color: green;
+}*/
+
 body {
-    font: normal 125%/1.4 "Ostrich Sans", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font: normal 125%/1.4 "Source Sans Pro", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    font-weight: 300;
 }

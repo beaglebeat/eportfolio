@@ -1,6 +1,9 @@
 ### Hugo ###
 public/
 resources
+### unused fonts ###
+static/fonts/OstrichSans
+static/fonts/Antonio
 # Hugo Pipes
 /assets/jsconfig.json
 hugo_stats.json
