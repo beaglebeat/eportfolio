@@ -10,8 +10,6 @@ I'm an electrical and computer engineering student at MassBay Community College 
 
 I previously studied music at Berklee College of Music in Boston, MA. I spent a decade working as a musician, audio engineer, and occasional freelance software developer. I've always had a strong connection to computers and technology, but in the past few years, I discovered a passion for building hardware in particular. I created this website to share my projects.
 
-I'm also an avid gardener and lover of all dogs.
-
 ## My Experience
 
 Coding languages: HTML, CSS, JS, Python, C++
@@ -28,4 +26,4 @@ At the moment, I'm seeking roles where I can combine my skills as a creative pro
 
 ## Feel free to reach out!
 
-Send me a message via any of the social media links below or use the form on my contact page.
+Send me a message via any of the social media links at the bottom of the page or use the form on my contact page. You can also sign up to my newsletter to keep up with all of my happenings.
