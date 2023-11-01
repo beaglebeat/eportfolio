@@ -1,1 +1,5 @@
 /* Add custom CSS */
+
+body {
+    font: normal 125%/1.4 "Ostrich Sans", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
