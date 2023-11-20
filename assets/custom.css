@@ -2,7 +2,7 @@
 
 /* Separate overrides for light and dark */
 :root {
-    --color-primary: #ff3300;
+    --color-primary: #0099ff;
 }
 [data-theme="dark"] {
     --color-primary: #0099ff;

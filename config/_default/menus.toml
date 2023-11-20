@@ -13,72 +13,64 @@
     weight = 1
 
 [[main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    parent = "work"
-    weight = 2
-
-[[main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    parent = "work"
-    weight = 3
-
-[[main]]
     # Top-level menu entry
     identifier = "writing"
     name = "Writing"
     url = "/posts/"
-    weight = 4
+    weight = 2
 
 [[main]]
     identifier = "posts"
     name = "All Posts"
     url = "/posts/"
     parent = "writing"
-    weight = 4
-
-[[main]]
-    identifier = "updates"
-    name = "Updates"
-    url = "/updates/"
-    # url = "/posts/updates/" # Remove url param from updates/_index.md frontmatter to use full permalink
-    parent = "writing"
-    weight = 5
-
-[[main]]
-    # Top-level menu entry
-    identifier = "explore"
-    name = "Explore"
-    url = "/categories/"
-    weight = 6
+    weight = 2
 
 [[main]]
     identifier = "categories"
     name = "Categories"
     url = "/categories/"
-    parent = "explore"
-    weight = 6
+    parent = "writing"
+    weight = 3
 
 [[main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    parent = "explore"
-    weight = 7
+    parent = "writing"
+    weight = 4
 
 [[main]]
     identifier = "series"
     name = "Series"
     url = "/series/"
-    parent = "explore"
-    weight = 8
+    parent = "writing"
+    weight = 5
 
 [[main]]
     identifier = "project-type"
     name = "Project Types"
     url = "/project-types/"
-    parent = "explore"
-    weight = 9
+    parent = "writing"
+    weight = 6
+
+[[main]]
+    # Top-level menu entry
+    identifier = "About"
+    name = "About"
+    url = "/about/"
+    weight = 7
+
+[[main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    parent = "About"
+    weight = 7
+
+[[main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    parent = "About"
+    weight = 8

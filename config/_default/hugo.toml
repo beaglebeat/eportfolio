@@ -103,7 +103,7 @@ theme = 'hugo-liftoff'
 
 [related]
   # Default related posts settings
-  includeNewer = false
+  includeNewer = true
   threshold = 80
   toLower = false
 [[related.indices]]
