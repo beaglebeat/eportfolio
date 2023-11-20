@@ -56,21 +56,21 @@
 
 [[main]]
     # Top-level menu entry
-    identifier = "About"
+    identifier = "about"
     name = "About"
     url = "/about/"
     weight = 7
 
 [[main]]
-    identifier = "about"
+    identifier = "about-page"
     name = "About"
     url = "/about/"
-    parent = "About"
+    parent = "about"
     weight = 7
 
 [[main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    parent = "About"
+    parent = "about"
     weight = 8

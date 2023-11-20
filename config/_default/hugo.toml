@@ -56,7 +56,7 @@ theme = 'hugo-liftoff'
 [permalinks]
     [permalinks.page]
         # e.g. /subsection/example-post instead of /posts/subsection/example-post
-        posts = '/:sections[last]/:slug/' # Removes 'posts' from the permalink structure for posts created under nested sub-sections
+        posts = 'posts/:sections[last]/:slug/' # Removes 'posts' from the permalink structure for posts created under nested sub-sections
     [permalinks.section]
         # e.g. /subsection/ instead of /posts/subsection/
         posts = '/:slug/'
