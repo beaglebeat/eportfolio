@@ -1,13 +1,13 @@
 ---
-title: Funky Timer
+title: Funky Timer - An Electric Piano
 seo_title: Funky Timer 555 Digital Analog Breadboard Piano Project
-summary: This is an electronic piano based on a 555 timer.
-description: This is an electronic piano based on a 555 timer.
+summary: An electronic piano based on a 555 timer. See "Live" for a video and "Source" for a writeup.
+description: An electronic piano based on a 555 timer.
 slug: funkytimer
 author: Tyler Lash
 
 draft: false
-date: 2023-12-11T13:01:30-05:00
+date: 2023-12-11T12:51:30-05:00
 lastmod: 
 expiryDate: 
 publishDate: 
