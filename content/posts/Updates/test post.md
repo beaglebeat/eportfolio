@@ -6,9 +6,9 @@ description: Post to test posting.
 slug: test-post
 author: Tyler Lash
 
-draft: false
+draft: true
 date: 2023-11-19T21:21:46-05:00
-lastmod: 2023-11-19T21:21:46-05:00
+lastmod:
 expiryDate: 
 publishDate: 
 
