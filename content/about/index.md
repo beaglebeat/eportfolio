@@ -6,13 +6,6 @@ seo_title: About
 description: About me
 ---
 
----
-
-*Do I contradict myself? / Very well then I contradict myself, / (I am large, I contain multitudes)*
-- Walt Whitman, *Song of Myself*
-
----
-
 ## Who am I?
 
 I'm an electrical and computer engineering student currently based in Worcester, MA.
@@ -45,3 +38,10 @@ At the moment, I'm seeking roles where I can combine my skills as a creative pro
 ## Feel free to reach out!
 
 Send me a message via any of the social media links on this page or use the form on my contact page. You can also stay in touch by signing up for my newsletter if you're the introverted type.
+
+---
+
+*Do I contradict myself? / Very well then I contradict myself, / (I am large, I contain multitudes)*
+- Walt Whitman, *Song of Myself*
+
+---
