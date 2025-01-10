@@ -15,10 +15,10 @@ I previously studied music at Berklee College of Music in Boston, MA. After leav
 ## My Experience
 
 Coding languages:
-- Python, C, C++, C#
+- Python, C, C++, Verilog
 
 Visual software:
-- Photoshop, SolidWorks
+- Photoshop, SolidWorks, SquareLine
 
 Audio software:
 - Ableton Live, Logic Pro
@@ -27,7 +27,7 @@ Game engines:
 - Unity, Godot
 
 Gardening:
-- Cucumbers, bush beans, watermelon
+- Cucumbers, Watermelon, Tomatoes
 
 ## What am I looking for?
 
