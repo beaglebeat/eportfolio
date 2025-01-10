@@ -10,12 +10,12 @@ description: About me
 
 I'm an electrical and computer engineering student currently based in Worcester, MA.
 
-I previously studied music at Berklee College of Music in Boston, MA. After leaving Berklee, I spent a decade working as a musician, audio engineer, and freelance artist. Throughout these endeavors, I've always harbored a strong connection with technology. I've grown particularly passionate about designing and building computer hardware. To meet these ends, I recently received an Associate of Science in Electrical and Computer Engineering degree from MassBay Community College in Wellesley, MA with highest honors and I'm now in the process of transferring to Worcester Polytechnic Institute this fall where I'll be seeking a bachelor's degree with graduation planned in May 2026.
+I previously studied music at Berklee College of Music in Boston, MA. After leaving Berklee, I spent a decade working as a musician, audio engineer, and freelance artist. Throughout these endeavors, I've always harbored a strong connection with technology. I've grown particularly passionate about designing and building computer hardware. To meet these ends, I recently received an Associate of Science in Electrical and Computer Engineering degree from MassBay Community College in Wellesley, MA with highest honors. I'm now enrolled in Worcester Polytechnic Institute to pursue my B.S. and M.S. in Electrical and Computer Engineering.
 
 ## My Experience
 
 Coding languages:
-- Python, C++, C#
+- Python, C, C++, C#
 
 Visual software:
 - Photoshop, SolidWorks
